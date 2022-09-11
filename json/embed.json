@@ -1,0 +1,10 @@
+{
+  "color": "#43eaf6",
+  "successcolor": "#00FF00",
+  "stanbycolor": "#FFFFFF",
+  "wrongcolor": "#FF0000",
+  "footertext": "Powered by Mudrank",
+  "footericon": "https://images-ext-1.discordapp.net/external/UeaX1aacnQVSA1QCGgZxyorSXyLTW0HSd9euI5umBnA/%3Fsize%3D512/https/cdn.discordapp.com/avatars/758977035824922624/a_5395002aec060d3c4fa1e20f79b07fb0.gif",
+  "authoricon": "https://images-ext-1.discordapp.net/external/UeaX1aacnQVSA1QCGgZxyorSXyLTW0HSd9euI5umBnA/%3Fsize%3D512/https/cdn.discordapp.com/avatars/758977035824922624/a_5395002aec060d3c4fa1e20f79b07fb0.gif",
+  "loadingicon": "https://cdn.discordapp.com/emojis/994612386713575534.gif?size=32&quality=lossless"
+}
